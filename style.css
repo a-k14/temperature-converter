@@ -1,0 +1,21 @@
+.heading {
+    color: darkgreen;
+    text-align: center;
+    font-style: italic;
+    padding: 25px;
+}
+body {background-color: goldenrod;}
+input {
+    display: table;
+    size: 0px;
+    padding: 15px;
+    margin-top: 15px;
+    font-style: oblique;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: khaki;
+    }
+    button {
+        padding: 10px;
+        font-style: inherit;
+    }
